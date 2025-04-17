@@ -1,5 +1,5 @@
 const initHttp = () => {
-    console.log('hello http123456')
+    console.log('hello http1234567')
 }
 
 export default initHttp
